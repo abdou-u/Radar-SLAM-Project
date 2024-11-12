@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project, conducted as part of the COM-304 course at EPFL, explores Simultaneous Localization and Mapping (SLAM) using mmWave radar technology. Our team utilized the AWR1843BOOST radar sensor combined with a Turtlebot 4 robot to develop a robust indoor SLAM system capable of performing in challenging environmental conditions. The project is split into offline and online pipelines, each focused on different aspects of SLAM implementation and optimization.
+This project, conducted as part of the COM-304 course, explores Simultaneous Localization and Mapping (SLAM) using mmWave radar technology. Our team utilized the AWR1843BOOST radar sensor combined with a Turtlebot 4 robot to develop a robust indoor SLAM system capable of performing in challenging environmental conditions. The project is split into offline and online pipelines, each focused on different aspects of SLAM implementation and optimization.
 
 ### Team Members
 - [Ahmed Abdelmalek](https://people.epfl.ch/ahmed.abdelmalek)
